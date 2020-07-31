@@ -277,7 +277,7 @@ background-color: white;
 </string>
     </property>
     <property name="text">
-     <string>*</string>
+     <string>X</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_6">
