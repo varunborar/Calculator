@@ -43,7 +43,7 @@ font-size: 35px;
      <string>0</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="pushButton_Clear">
     <property name="geometry">
      <rect>
       <x>0</x>
@@ -70,7 +70,7 @@ background-color: white;
      <string>C</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="pushButton_Sign">
     <property name="geometry">
      <rect>
       <x>120</x>
@@ -97,7 +97,7 @@ background-color: white;
      <string>+/-</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="pushButton_percent">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -124,7 +124,7 @@ background-color: white;
      <string>%</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="pushButton_Add">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -151,7 +151,7 @@ background-color: white;
      <string>+</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_5">
+   <widget class="QPushButton" name="pushButton_divide">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -178,7 +178,7 @@ background-color: white;
      <string>/</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_6">
+   <widget class="QPushButton" name="pushButton_9">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -253,7 +253,7 @@ background-color: black;
      <string>8</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_9">
+   <widget class="QPushButton" name="pushButton_Multiply">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -280,7 +280,7 @@ background-color: white;
      <string>*</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_10">
+   <widget class="QPushButton" name="pushButton_6">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -305,7 +305,7 @@ background-color: black;
      <string>6</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_11">
+   <widget class="QPushButton" name="pushButton_4">
     <property name="geometry">
      <rect>
       <x>0</x>
@@ -330,7 +330,7 @@ background-color: black;
      <string>4</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_12">
+   <widget class="QPushButton" name="pushButton_5">
     <property name="geometry">
      <rect>
       <x>120</x>
@@ -355,7 +355,7 @@ background-color: black;
      <string>5</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_13">
+   <widget class="QPushButton" name="pushButton_Subtract">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -382,7 +382,7 @@ background-color: white;
      <string>-</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_14">
+   <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -407,7 +407,7 @@ background-color: black;
      <string>3</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_15">
+   <widget class="QPushButton" name="pushButton_1">
     <property name="geometry">
      <rect>
       <x>0</x>
@@ -432,7 +432,7 @@ background-color: black;
      <string>1</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_16">
+   <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
       <x>120</x>
@@ -457,7 +457,7 @@ background-color: black;
      <string>2</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_17">
+   <widget class="QPushButton" name="pushButton_Equalsto">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -484,7 +484,7 @@ background-color: white;
      <string>=</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_18">
+   <widget class="QPushButton" name="pushButton_Decimal">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -509,7 +509,7 @@ background-color: black;
      <string>.</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_19">
+   <widget class="QPushButton" name="pushButton_0">
     <property name="geometry">
      <rect>
       <x>0</x>
