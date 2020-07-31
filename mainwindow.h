@@ -21,5 +21,9 @@ private:
 private slots:
     void digitPressed();
     void on_pushButton_Decimal_released();
+    void unaryOperator();
+    void on_pushButton_Clear_released();
+    void binaryOperator();
+    void on_pushButton_Equalsto_released();
 };
 #endif // MAINWINDOW_H
